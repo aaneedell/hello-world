@@ -7,5 +7,7 @@ There are 2 authentication methods for the API:
 Ut ultrices tortor nec commodo lobortis. Ut iaculis, risus ac efficitur maximus, quam massa luctus erat, ut vestibulum purus lectus eu eros. 
 ## API root
 The root API is blabla.api.v1/
+
 ## References
+
 Refer to etc.
