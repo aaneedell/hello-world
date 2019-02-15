@@ -1,0 +1,57 @@
+swagger: '2.0'
+info:
+  description: "
+  This public API is a simple IP Address API. I learned about it from this link: 
+  (https://www.blazemeter.com/blog/).
+  
+  ## Authentication
+  
+  This API is a great example for testing because it is very simple, and also allows unlimited access without an API key. You are free to test with this API.
+  
+  ## How to use the API
+  
+  To use this API: 
+  
+  1. In porttitor fringilla nisl nec lacinia. Aliquam erat volutpat. Donec ac vulputate turpis, in lacinia tellus. Nam tincidunt in ex eu tempor. Vestibulum mattis vulputate neque eu lacinia. 
+  
+  2. Nunc ut mollis lectus, quis consectetur lorem. Vestibulum at semper sapien, eget condimentum dui.
+  
+  
+  Donec aliquam ornare est non bibendum. Fusce congue diam sed sodales pellentesque. Nulla sed diam a risus fringilla dictum ut a augue. Vestibulum eleifend velit libero, at laoreet mi elementum a. Vestibulum lacinia eleifend consectetur. Ut rhoncus ante eget tincidunt commodo. Donec facilisis interdum felis, et aliquet est gravida et.
+  
+  ### How to get an Ixia account
+  
+  1. Go to: (https:www.ixiacom.com)
+  
+  2. Select **Create Account**.
+  
+  3. Enter the required information. 
+  
+  4. Check your email for more information. "
+  title: ipify API Reference
+  version: v1
+host: api.ipify.org
+schemes:
+  - https
+basePath: /
+paths:
+  /:
+    get:
+      summary: Get client IP
+      parameters:
+        - in: query
+          name: format
+          type: string
+          description: "The format in which to return the response. The default is *json*."
+          default: json
+      responses:
+        200:
+          description: Success response
+          schema:
+            type: object
+            properties: 
+              ip:
+                type: string
+                example: 192.168.20.20
+        400:
+          description: "The server cannot or will not process the request due to an apparent **client error** (for example: malformed request syntax, size too large, invalid request message framing, or deceptive request routing)."
