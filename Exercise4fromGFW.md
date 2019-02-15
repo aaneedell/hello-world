@@ -8,20 +8,20 @@ It's wonderful because it is:
 
 And it is entirely useless, which means that if you lose it, you really won't care.
 
-###Authentication
+## Authentication
 
 In porttitor fringilla nisl nec lacinia. 
-9. Aliquam erat volutpat. 
-9. Donec ac vulputate turpis, in lacinia tellus. 
-9. Nam tincidunt in ex eu tempor. 
+1. Aliquam erat volutpat. 
+2. Donec ac vulputate turpis, in lacinia tellus. 
+3. Nam tincidunt in ex eu tempor. 
 
 Vestibulum mattis vulputate neque eu lacinia. Nunc ut mollis lectus, quis consectetur lorem. Vestibulum at semper sapien, eget condimentum dui. Donec aliquam ornare est non bibendum. 
 
-###Status codes
+### Status codes
 
 Fusce congue diam sed sodales pellentesque. Nulla sed diam a risus fringilla dictum ut a augue. 
 
-####Other codes
+#### Other codes
 
 Vestibulum eleifend velit libero, at laoreet mi elementum a. Vestibulum lacinia eleifend consectetur. Ut rhoncus ante eget tincidunt commodo. 
 
