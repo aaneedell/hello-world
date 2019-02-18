@@ -1,5 +1,5 @@
 # Introduction
-WELCOME to the BlaBla API. Using this API, you can risus eu ligula tristique laoreet. In hac habitasse platea dictumst. Pellentesque id mauris vehicula, scelerisque dolor vitae, venenatis quam. Pellentesque luctus dui est, ut viverra sem pharetra vel. Sed ultricies velit ac quam molestie, a cursus mauris commodo. Mauris metus nunc, mattis a velit vitae, aliquet lacinia ex.
+**WELCOME** to the BlaBla API. Using this API, you can risus eu ligula tristique laoreet. In hac habitasse platea dictumst. Pellentesque id mauris vehicula, scelerisque dolor vitae, venenatis quam. Pellentesque luctus dui est, ut viverra sem pharetra vel. Sed ultricies velit ac quam molestie, a cursus mauris commodo. Mauris metus nunc, mattis a velit vitae, aliquet lacinia ex.
 ## Authentication
 There are 2 authentication methods for the API:
 * HTTP Basic authentication
